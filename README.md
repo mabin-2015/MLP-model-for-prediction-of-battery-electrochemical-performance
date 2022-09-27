@@ -1,0 +1,2 @@
+# MLP-model-for-prediction-of-battery-electrochemical-performance
+This MLP model is able to achieve accurate predictions of the battery electrochemical performance using the corresponding electrode materials. The input includes stoichiometric attributes, crystal structure properties, electronic structure attributes and other battery attributes. The output includes the average voltage, specific energy and specific capacity. The datasets are obtained from Materials Project.
